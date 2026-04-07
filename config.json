@@ -1,0 +1,7 @@
+{
+  "outputDir": "E:\\manga\\houkago-bokura-wa-uchuu-ni-madou",
+  "language": "en",
+  "retryAttempts": 3,
+  "retryDelay": 1000,
+  "rateLimitDelay": 200
+}
